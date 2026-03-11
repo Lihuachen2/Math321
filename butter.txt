@@ -1,0 +1,22 @@
+y brand cookmethod
+173 lakes stove
+97 cabot stove
+150 value stove
+125 lakes stove
+154 value stove
+166 lakes oven
+179 lakes oven
+157 value stove
+158 lakes stove
+206 value oven
+110 cabot stove
+195 value oven
+177 cabot oven
+197 cabot oven
+203 lakes oven
+183 cabot oven
+126 cabot stove
+205 value oven
+
+
+
